@@ -1,5 +1,3 @@
-
-# disk_space.sh
 #!/bin/bash
 
 check_disk_space() {

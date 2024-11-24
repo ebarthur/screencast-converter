@@ -1,13 +1,11 @@
-
-# main.sh
 #!/bin/bash
 
-source ./cleanup.sh
-source ./check_dependencies.sh
-source ./disk_space.sh
-source ./logging.sh
-source ./conversion.sh
-source ./notifications.sh
+source ./scripts/cleanup.sh
+source ./scripts/check_dependencies.sh
+source ./scripts/disk_space.sh
+source ./scripts/logging.sh
+source ./scripts/conversion.sh
+source ./scripts/notifications.sh
 
 # Configuration (Always verify what a config does before you make a change)
 WATCH_DIR="$HOME/Videos/Screencasts"

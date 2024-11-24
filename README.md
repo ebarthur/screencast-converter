@@ -46,6 +46,7 @@ For other distributions, use the respective package manager to install `ffmpeg` 
 
    ```bash
    chmod +x scripts/*.sh
+   chmod +x ./main.sh
    ```
 
 ## Usage
