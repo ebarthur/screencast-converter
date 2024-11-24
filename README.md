@@ -37,7 +37,7 @@ For other distributions, use the respective package manager to install `ffmpeg` 
 
    ```bash
    git clone https://github.com/ebarthur/screencast-converter.git
-   cd webm-converter
+   cd screencast-converter
    ```
 
 2. **Make the Script Executable**:
