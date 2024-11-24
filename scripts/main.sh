@@ -9,7 +9,7 @@ source ./logging.sh
 source ./conversion.sh
 source ./notifications.sh
 
-# Configuration
+# Configuration (Always verify what a config does before you make a change)
 WATCH_DIR="$HOME/Videos/Screencasts"
 OUTPUT_DIR="$HOME/Videos/converted"
 DELETE_WEBM=true

@@ -25,3 +25,6 @@ send_notification() {
                    "$title" "$message"
     fi
 }
+
+
+# []: TODO: Add progress bar on system tray
